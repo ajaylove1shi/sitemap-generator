@@ -1,13 +1,14 @@
 ## Sitemap 
-Contributors: ajaylowanshi
-Donate link: https://ajaylove1shi.com/donate
-Tags: sitemap, SEO, XML, HTML, search engines, site navigation
-Requires at least: 5.8
-Tested up to: 6.2
-Requires PHP: 8.0
-Stable tag: 1.0.0
-License: MIT
-License URI: https://opensource.org/licenses/MIT
+
+1. Contributors: ajaylowanshi
+2. Donate link: https://ajaylove1shi.com/donate
+3. Tags: sitemap, SEO, XML, HTML, search engines, site navigation
+4. Requires at least: 5.8
+5. Tested up to: 6.2
+6. Requires PHP: 8.0
+7. Stable tag: 1.0.0
+8. License: MIT
+9. License URI: https://opensource.org/licenses/MIT
 
 Generate a complete and customizable sitemap for your website to improve SEO and enhance site navigation.
 
